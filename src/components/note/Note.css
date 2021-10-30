@@ -1,0 +1,15 @@
+.note{
+  font-size: 3rem;
+  width: 75%;
+  text-align: center;
+}
+
+.note p:nth-child(2){
+  margin: 3rem;
+  margin-top: 2rem;
+  padding: 2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  background-color: gold;
+  border-radius: 5rem;
+}

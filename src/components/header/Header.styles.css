@@ -1,0 +1,15 @@
+header{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 600;
+  padding: 3rem;
+  margin-bottom: 5rem;
+  width: 90%;
+  margin-top: 1rem;
+  border-radius: 11px;
+  box-shadow: 2px 2px 4px  rgba(0, 0, 0,0.6);
+  background-color: gold;
+}

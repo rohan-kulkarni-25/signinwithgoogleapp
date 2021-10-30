@@ -1,0 +1,42 @@
+.signedin{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  text-align: center;
+}
+
+.signedin p:first-child{
+  font-size: 5rem;
+  font-weight: 400;
+}
+
+.signedin p:nth-child(2){
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+
+.workunder{
+  width: 40rem;
+}
+
+.google-signout{
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  font-size: 4rem;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+  border-radius: 11px;
+  box-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.2);
+}
+
+.google-signout:hover{
+  background-color: #1a73e8;
+  color: white;
+}
